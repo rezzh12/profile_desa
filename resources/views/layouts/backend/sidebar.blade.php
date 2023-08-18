@@ -4,7 +4,7 @@
   <a href="/" class="brand-link">
     <img src="{{ asset('img/icons') }}/laravel.jpg" alt="laravel Logo" class="brand-image img-circle elevation-3"
          style="opacity: .8">
-    <span class="brand-text font-weight-light">Laraschool</span>
+    <span class="brand-text font-weight-light">Desa Neglasari</span>
   </a>
 
   <!-- Sidebar -->
